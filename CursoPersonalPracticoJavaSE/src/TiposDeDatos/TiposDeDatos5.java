@@ -1,9 +1,9 @@
-package CursoPersonalPracticoJavaSE;
+package TiposDeDatos;
 
 import java.util.*;
 import java.math.*;
 
-public class Algoritmo5 {
+public class TiposDeDatos5 {
 
     public static void main(String[] args) {
 

@@ -1,8 +1,8 @@
-package CursoPersonalPracticoJavaSE;
+package TiposDeDatos;
 import java.util.*;
 import java.math.*;
 
-public class Algoritmo4 {
+public class TiposDeDatos4 {
     public static void main(String[] args) {
      
         Scanner Alg4 = new Scanner(System.in);

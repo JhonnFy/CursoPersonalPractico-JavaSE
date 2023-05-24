@@ -1,4 +1,4 @@
-package CursoPersonalPracticoJavaSE;
+package TiposDeDatos;
 
 //Librerias
 import java.util.*;
@@ -7,7 +7,7 @@ import java.math.*;
 /*Algoritmo que solicite su nombre*/
 
 
-public class Algoritmo2 {
+public class TiposDeDatos2 {
     public static void main(String[] args) {
         
         //Objeto Scanner

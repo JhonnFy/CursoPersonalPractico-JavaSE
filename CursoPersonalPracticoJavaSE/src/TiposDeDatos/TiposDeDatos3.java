@@ -1,10 +1,10 @@
-package CursoPersonalPracticoJavaSE;
+package TiposDeDatos;
 //Librerias
 
 import java.util.*;
 import java.math.*;
 
-public class Algoritmo3 {
+public class TiposDeDatos3 {
 
     public static void main(String[] args) {
 

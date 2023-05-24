@@ -1,10 +1,10 @@
-package CursoPersonalPracticoJavaSE;
+package TiposDeDatos;
 
 import java.util.*;
 import java.math.*;
 import javax.swing.*;
 
-public class Algoritmo7 {
+public class TiposDeDatos7 {
 
     public static void main(String[] args) {
 
