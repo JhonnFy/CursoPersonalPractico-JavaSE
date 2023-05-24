@@ -7,7 +7,6 @@ import java.util.*;
 public class Operador4 {
 
     public static void main(String[] args) {
-
         //Raiz Cuadrada
         double raiz = Math.sqrt(36.67);
         //Elevar a una potencia
