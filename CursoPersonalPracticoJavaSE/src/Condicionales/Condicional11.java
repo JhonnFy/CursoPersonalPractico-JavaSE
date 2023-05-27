@@ -5,7 +5,7 @@ package Condicionales;
 import java.util.*;
 import java.math.*;
 
-public class Condicionales11 {
+public class Condicional11 {
 
     public static void main(String[] args) {
 
