@@ -18,7 +18,7 @@ public class Condicional14 {
         System.out.print("\n\t****UNIDADES DE MASA");
         System.out.print("\n\t1-CONSULTAS MULTIPLES");
         System.out.print("\n\t2-SALIR DEL SISTEMA");
-        System.out.print("\n\tSeleccione Una Opción\t\t");
+        System.out.print("\n\tSeleccione Una Opción:\t\t");
         opc = Con14.nextInt();
 
         switch (opc) {
