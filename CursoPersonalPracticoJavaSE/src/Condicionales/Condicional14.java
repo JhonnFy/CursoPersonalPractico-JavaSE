@@ -32,13 +32,13 @@ public class Condicional14 {
 
                     System.out.print("\n\t****UNIDADES DE MASA");
                     vMasa = (vMasa*0);
-                    vMasa = (klg * gramo);
+                    vMasa = Math.round(klg * gramo);
                     System.out.print("\n\t1 Kilogramo A Gramo:\t\t"+vMasa+".");
                     vMasa = (vMasa*0);
-                    vMasa = (klg*libra);
+                    vMasa = Math.round(klg*libra);
                     System.out.print("\n\t1 Kilogramo A Libra:\t\t"+vMasa+".");
                     vMasa = (vMasa*0);
-                    vMasa = (klg*masa);
+                    vMasa = Math.round(klg*masa);
                     System.out.print("\n\t1 Kilogramo A Masa:\t\t"+vMasa+".");
                 }
                 break;
