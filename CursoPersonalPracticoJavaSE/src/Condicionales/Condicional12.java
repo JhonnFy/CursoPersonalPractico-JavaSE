@@ -38,6 +38,7 @@ public class Condicional12 {
             opc = (opc * 0);
             opc = 1;
         } else if (crc == 'R' || crc == 'r') {
+            opc = (opc * 0);
             opc = 2;
         } else if (crc == 'P' || crc == 'p' || crc == 'M' || crc == 'm') {
             opc = (opc * 0);
